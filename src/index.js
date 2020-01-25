@@ -5,5 +5,5 @@ import './styles/styles.sass'
 
 const root = document.getElementById('root')
 
-ReactDOM.render(<p>Alive</p>, root)
+ReactDOM.render(<p>Boilerplate</p>, root)
 
